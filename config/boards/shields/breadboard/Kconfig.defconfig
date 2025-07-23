@@ -12,6 +12,6 @@ config ZMK_USB_BOOT
 config USB
     default y
 
-USB_DEVICE_MANUFACTURER
+config USB_DEVICE_MANUFACTURER
     default "MRBREADMAN"
 endif
