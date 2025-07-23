@@ -2,4 +2,6 @@ if SHIELD_BREADBOARD
 
 config ZMK_KEYBOARD_NAME
     default "breadboard"
+
+config ZMK_USB
 endif
