@@ -5,6 +5,13 @@ config ZMK_KEYBOARD_NAME
 
 config ZMK_USB
     default y
+
 config ZMK_USB_BOOT
     default y
+
+config USB
+    default y
+
+USB_DEVICE_MANUFACTURER
+    default "MRBREADMAN"
 endif
