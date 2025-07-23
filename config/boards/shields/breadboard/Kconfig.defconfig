@@ -4,5 +4,7 @@ config ZMK_KEYBOARD_NAME
     default "breadboard"
 
 config ZMK_USB
+    default y
 config ZMK_USB_BOOT
+    default y
 endif
