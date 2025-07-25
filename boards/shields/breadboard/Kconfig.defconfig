@@ -4,12 +4,12 @@ config ZMK_KEYBOARD_NAME
     default "breadboard"
 
 config ZMK_USB
-    bool "y"
+    default y
 
 config ZMK_USB_BOOT
-    bool "y"
+    default y
 
 config USB_DEVICE_MANUFACTURER
-    string "MRBREADMAN"
+    default "MRBREADMAN"
 
 endif

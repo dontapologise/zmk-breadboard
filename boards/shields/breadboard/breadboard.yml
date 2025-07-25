@@ -1,0 +1,6 @@
+file_format: "1"
+id: breadboard
+name: BreadBoard 60%
+type: shield
+features:
+  - keys
