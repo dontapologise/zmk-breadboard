@@ -3,9 +3,11 @@ if SHIELD_BREADBOARD
 config ZMK_KEYBOARD_NAME
     default "breadboard"
 
-config ZMK_USB=y
+config ZMK_USB
+    bool "y"
 
-config ZMK_USB_BOOT=y
+config ZMK_USB_BOOT
+    bool "y"
 
 config USB_DEVICE_MANUFACTURER
     string "MRBREADMAN"
