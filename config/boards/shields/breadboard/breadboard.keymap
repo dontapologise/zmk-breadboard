@@ -23,6 +23,7 @@
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans &trans &trans &tog 0 &trans &trans 
+            >;
         };
 
         bt_layer {
@@ -32,6 +33,7 @@
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans &trans &trans &tog 0 &trans &trans 
+            >;
         };
     };
 };
