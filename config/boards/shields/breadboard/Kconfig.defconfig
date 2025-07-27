@@ -3,4 +3,6 @@ if SHIELD_BREADBOARD
 config ZMK_KEYBOARD_NAME
     default "breadboard"
     
+config CONFIG_ZMK_BLE_EXPERIMENTAL_CONN=y
+
 endif
